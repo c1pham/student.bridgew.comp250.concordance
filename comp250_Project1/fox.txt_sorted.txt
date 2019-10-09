@@ -1,0 +1,22 @@
+21
+
+after 15
+and 18
+and 9
+brown 2
+came 14
+die 12
+dog 8
+fox 17
+fox 3
+jumps 4
+lazy 7
+megaman 13
+not 11
+over 5
+quick 1
+shoot 19
+the 0
+the 16
+the 6
+will 10
